@@ -1,5 +1,6 @@
 import unittest
 import requests
+import HTMLTestRunner
 
 """
 使用unittest的话需要记住下面的几点
